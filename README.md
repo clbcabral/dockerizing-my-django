@@ -4,7 +4,7 @@ Here we have a simple Django application that is using PostgreSQL. Everything is
 
 ## Configuration
 
-All attributes like passwords, URL connections, etc, are contained in [.env](https://github.com/clbcabral/dockerizing-my-django/blob/master/config/.env) file.
+All attributes like passwords, URL connections, etc, are contained in [example.env](https://github.com/clbcabral/dockerizing-my-django/blob/master/config/example.env) file. Just copy and rename it to <code>.env</code> and put all settings inside it.
 
 ## Build Setup and Run
 
